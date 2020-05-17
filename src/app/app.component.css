@@ -1,0 +1,15 @@
+table,th,td{
+    width:100%;
+    border:1px solid black;
+}
+h2{
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+}
+#top{
+    margin: auto;
+    display: inline;
+    text-align: center;
+}
